@@ -13,7 +13,9 @@ git push -u origin main
 
 <hr/>
 
-### h3
+### Mu primeiro Objeto/Classe
+
+Esse projeto possui o exemplo do meu primeiro objeto/classe em java
 
 <hr/>
 
